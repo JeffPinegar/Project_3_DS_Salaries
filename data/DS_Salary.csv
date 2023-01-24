@@ -1,0 +1,608 @@
+﻿id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,comp_size,Experience,Emply_Type,Country_Company,Country_Emply,Company_size,Category,Remote_Work,Machine_learning
+0,2020,MI,FT,Data Scientist,70000,EUR,79833,DE,0,DE,L,Mid-level Intermediate ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+1,2020,SE,FT,Machine Learning Scientist,260000,USD,260000,JP,0,JP,S,Senior-level Expert ,Full-time ,Japan,Japan,Small_Less_than_50_Emp,Scientist,0-20%,ML Professional
+2,2020,SE,FT,Big Data Engineer,85000,GBP,109024,GB,50,GB,M,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,20-80%,Not ML
+3,2020,MI,FT,Product Data Analyst,20000,USD,20000,HN,0,HN,S,Mid-level Intermediate ,Full-time ,Honduras,Honduras,Small_Less_than_50_Emp,Analysis,0-20%,Not ML
+4,2020,SE,FT,Machine Learning Engineer,150000,USD,150000,US,50,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,20-80%,ML Professional
+5,2020,EN,FT,Data Analyst,72000,USD,72000,US,100,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+6,2020,SE,FT,Lead Data Scientist,190000,USD,190000,US,100,US,S,Senior-level Expert ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+7,2020,MI,FT,Data Scientist,11000000,HUF,35735,HU,50,HU,L,Mid-level Intermediate ,Full-time ,Hungary,Hungary,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+8,2020,MI,FT,Business Data Analyst,135000,USD,135000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+9,2020,SE,FT,Lead Data Engineer,125000,USD,125000,NZ,50,NZ,S,Senior-level Expert ,Full-time ,New Zealand,New Zealand,Small_Less_than_50_Emp,Engineer,20-80%,Not ML
+10,2020,EN,FT,Data Scientist,45000,EUR,51321,FR,0,FR,S,Entry-level Junior ,Full-time ,France,France,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+11,2020,MI,FT,Data Scientist,3000000,INR,40481,IN,0,IN,L,Mid-level Intermediate ,Full-time ,India,India,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+12,2020,EN,FT,Data Scientist,35000,EUR,39916,FR,0,FR,M,Entry-level Junior ,Full-time ,France,France,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+13,2020,MI,FT,Lead Data Analyst,87000,USD,87000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+14,2020,MI,FT,Data Analyst,85000,USD,85000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+15,2020,MI,FT,Data Analyst,8000,USD,8000,PK,50,PK,L,Mid-level Intermediate ,Full-time ,Pakistan,Pakistan,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+16,2020,EN,FT,Data Engineer,4450000,JPY,41689,JP,100,JP,S,Entry-level Junior ,Full-time ,Japan,Japan,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+17,2020,SE,FT,Big Data Engineer,100000,EUR,114047,PL,100,GB,S,Senior-level Expert ,Full-time ,United Kingdom,Poland,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+18,2020,EN,FT,Data Science Consultant,423000,INR,5707,IN,50,IN,M,Entry-level Junior ,Full-time ,India,India,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+19,2020,MI,FT,Lead Data Engineer,56000,USD,56000,PT,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,Part-time ,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+20,2020,MI,FT,Machine Learning Engineer,299000,CNY,43331,CN,0,CN,M,Mid-level Intermediate ,Full-time ,China,China,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+21,2020,MI,FT,Product Data Analyst,450000,INR,6072,IN,100,IN,L,Mid-level Intermediate ,Full-time ,India,India,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+22,2020,SE,FT,Data Engineer,42000,EUR,47899,GR,50,GR,L,Senior-level Expert ,Full-time ,Greece,Greece,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+23,2020,MI,FT,BI Data Analyst,98000,USD,98000,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+24,2020,MI,FT,Lead Data Scientist,115000,USD,115000,AE,0,AE,L,Mid-level Intermediate ,Full-time ,United Arab Emirates,United Arab Emirates,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+25,2020,EX,FT,Director of Data Science,325000,USD,325000,US,100,US,L,Executive-level Director,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+26,2020,EN,FT,Research Scientist,42000,USD,42000,NL,50,NL,L,Entry-level Junior ,Full-time ,Netherlands,Netherlands,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+27,2020,SE,FT,Data Engineer,720000,MXN,33511,MX,0,MX,S,Senior-level Expert ,Full-time ,Mexico,Mexico,Small_Less_than_50_Emp,Engineer,0-20%,Not ML
+28,2020,EN,CT,Business Data Analyst,100000,USD,100000,US,100,US,L,Entry-level Junior ,Contract ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+29,2020,SE,FT,Machine Learning Manager,157000,CAD,117104,CA,50,CA,L,Senior-level Expert ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Other,20-80%,ML Professional
+30,2020,MI,FT,Data Engineering Manager,51999,EUR,59303,DE,100,DE,S,Mid-level Intermediate ,Full-time ,Germany,Germany,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+31,2020,EN,FT,Big Data Engineer,70000,USD,70000,US,100,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+32,2020,SE,FT,Data Scientist,60000,EUR,68428,GR,100,US,L,Senior-level Expert ,Full-time ,United States of America,Greece,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+33,2020,MI,FT,Research Scientist,450000,USD,450000,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+34,2020,MI,FT,Data Analyst,41000,EUR,46759,FR,50,FR,L,Mid-level Intermediate ,Full-time ,France,France,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+35,2020,MI,FT,Data Engineer,65000,EUR,74130,AT,50,AT,L,Mid-level Intermediate ,Full-time ,Austria,Austria,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+36,2020,MI,FT,Data Science Consultant,103000,USD,103000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+37,2020,EN,FT,Machine Learning Engineer,250000,USD,250000,US,50,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,20-80%,ML Professional
+38,2020,EN,FT,Data Analyst,10000,USD,10000,NG,100,NG,S,Entry-level Junior ,Full-time ,Nigeria,Nigeria,Small_Less_than_50_Emp,Analysis,80-100%,Not ML
+39,2020,EN,FT,Machine Learning Engineer,138000,USD,138000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+40,2020,MI,FT,Data Scientist,45760,USD,45760,PH,100,US,S,Mid-level Intermediate ,Full-time ,United States of America,Philippines,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+41,2020,EX,FT,Data Engineering Manager,70000,EUR,79833,ES,50,ES,L,Executive-level Director,Full-time ,Spain,Spain,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+42,2020,MI,FT,Machine Learning Infrastructure Engineer,44000,EUR,50180,PT,0,PT,M,Mid-level Intermediate ,Full-time ,Part-time ,Part-time ,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+43,2020,MI,FT,Data Engineer,106000,USD,106000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+44,2020,MI,FT,Data Engineer,88000,GBP,112872,GB,50,GB,L,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+45,2020,EN,PT,ML Engineer,14000,EUR,15966,DE,100,DE,S,Entry-level Junior ,Part-time ,Germany,Germany,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+46,2020,MI,FT,Data Scientist,60000,GBP,76958,GB,100,GB,S,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+47,2020,SE,FT,Data Engineer,188000,USD,188000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+48,2020,MI,FT,Data Scientist,105000,USD,105000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+49,2020,MI,FT,Data Engineer,61500,EUR,70139,FR,50,FR,L,Mid-level Intermediate ,Full-time ,France,France,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+50,2020,EN,FT,Data Analyst,450000,INR,6072,IN,0,IN,S,Entry-level Junior ,Full-time ,India,India,Small_Less_than_50_Emp,Analysis,0-20%,Not ML
+51,2020,EN,FT,Data Analyst,91000,USD,91000,US,100,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+52,2020,EN,FT,AI Scientist,300000,DKK,45896,DK,50,DK,S,Entry-level Junior ,Full-time ,Denmark,Denmark,Small_Less_than_50_Emp,Scientist,20-80%,Not ML
+53,2020,EN,FT,Data Engineer,48000,EUR,54742,PK,100,DE,L,Entry-level Junior ,Full-time ,Germany,Pakistan,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+54,2020,SE,FL,Computer Vision Engineer,60000,USD,60000,RU,100,US,S,Senior-level Expert ,Freelance,United States of America,Russian Federation,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+55,2020,SE,FT,Principal Data Scientist,130000,EUR,148261,DE,100,DE,M,Senior-level Expert ,Full-time ,Germany,Germany,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+56,2020,MI,FT,Data Scientist,34000,EUR,38776,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+57,2020,MI,FT,Data Scientist,118000,USD,118000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+58,2020,SE,FT,Data Scientist,120000,USD,120000,US,50,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+59,2020,MI,FT,Data Scientist,138350,USD,138350,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+60,2020,MI,FT,Data Engineer,110000,USD,110000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+61,2020,MI,FT,Data Engineer,130800,USD,130800,ES,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,Spain,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+62,2020,EN,PT,Data Scientist,19000,EUR,21669,IT,50,IT,S,Entry-level Junior ,Part-time ,Italy,Italy,Small_Less_than_50_Emp,Scientist,20-80%,Not ML
+63,2020,SE,FT,Data Scientist,412000,USD,412000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+64,2020,SE,FT,Machine Learning Engineer,40000,EUR,45618,HR,100,HR,S,Senior-level Expert ,Full-time ,Croatia,Croatia,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+65,2020,EN,FT,Data Scientist,55000,EUR,62726,DE,50,DE,S,Entry-level Junior ,Full-time ,Germany,Germany,Small_Less_than_50_Emp,Scientist,20-80%,Not ML
+66,2020,EN,FT,Data Scientist,43200,EUR,49268,DE,0,DE,S,Entry-level Junior ,Full-time ,Germany,Germany,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+67,2020,SE,FT,Data Science Manager,190200,USD,190200,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+68,2020,EN,FT,Data Scientist,105000,USD,105000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+69,2020,SE,FT,Data Scientist,80000,EUR,91237,AT,0,AT,S,Senior-level Expert ,Full-time ,Austria,Austria,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+70,2020,MI,FT,Data Scientist,55000,EUR,62726,FR,50,LU,S,Mid-level Intermediate ,Full-time ,Luxembourg,France,Small_Less_than_50_Emp,Scientist,20-80%,Not ML
+71,2020,MI,FT,Data Scientist,37000,EUR,42197,FR,50,FR,S,Mid-level Intermediate ,Full-time ,France,France,Small_Less_than_50_Emp,Scientist,20-80%,Not ML
+72,2021,EN,FT,Research Scientist,60000,GBP,82528,GB,50,GB,L,Entry-level Junior ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+73,2021,EX,FT,BI Data Analyst,150000,USD,150000,IN,100,US,L,Executive-level Director,Full-time ,United States of America,India,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+74,2021,EX,FT,Head of Data,235000,USD,235000,US,100,US,L,Executive-level Director,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Other,80-100%,Not ML
+75,2021,SE,FT,Data Scientist,45000,EUR,53192,FR,50,FR,L,Senior-level Expert ,Full-time ,France,France,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+76,2021,MI,FT,BI Data Analyst,100000,USD,100000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+77,2021,MI,PT,3D Computer Vision Researcher,400000,INR,5409,IN,50,IN,M,Mid-level Intermediate ,Part-time ,India,India,Medium_Between_50_and_250_Emp,Other,20-80%,Not ML
+78,2021,MI,CT,ML Engineer,270000,USD,270000,US,100,US,L,Mid-level Intermediate ,Contract ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+79,2021,EN,FT,Data Analyst,80000,USD,80000,US,100,US,M,Entry-level Junior ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+80,2021,SE,FT,Data Analytics Engineer,67000,EUR,79197,DE,100,DE,L,Senior-level Expert ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+81,2021,MI,FT,Data Engineer,140000,USD,140000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+82,2021,MI,FT,Applied Data Scientist,68000,CAD,54238,GB,50,CA,L,Mid-level Intermediate ,Full-time ,Canada,United Kingdom,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+83,2021,MI,FT,Machine Learning Engineer,40000,EUR,47282,ES,100,ES,S,Mid-level Intermediate ,Full-time ,Spain,Spain,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+84,2021,EX,FT,Director of Data Science,130000,EUR,153667,IT,100,PL,L,Executive-level Director,Full-time ,Poland,Italy,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+85,2021,MI,FT,Data Engineer,110000,PLN,28476,PL,100,PL,L,Mid-level Intermediate ,Full-time ,Poland,Poland,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+86,2021,EN,FT,Data Analyst,50000,EUR,59102,FR,50,FR,M,Entry-level Junior ,Full-time ,France,France,Medium_Between_50_and_250_Emp,Analysis,20-80%,Not ML
+87,2021,MI,FT,Data Analytics Engineer,110000,USD,110000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+88,2021,SE,FT,Lead Data Analyst,170000,USD,170000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+89,2021,SE,FT,Data Analyst,80000,USD,80000,BG,100,US,S,Senior-level Expert ,Full-time ,United States of America,Bulgaria,Small_Less_than_50_Emp,Analysis,80-100%,Not ML
+90,2021,SE,FT,Marketing Data Analyst,75000,EUR,88654,GR,100,DK,L,Senior-level Expert ,Full-time ,Denmark,Greece,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+91,2021,EN,FT,Data Science Consultant,65000,EUR,76833,DE,100,DE,S,Entry-level Junior ,Full-time ,Germany,Germany,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+92,2021,MI,FT,Lead Data Analyst,1450000,INR,19609,IN,100,IN,L,Mid-level Intermediate ,Full-time ,India,India,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+93,2021,SE,FT,Lead Data Engineer,276000,USD,276000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+94,2021,EN,FT,Data Scientist,2200000,INR,29751,IN,50,IN,L,Entry-level Junior ,Full-time ,India,India,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+95,2021,MI,FT,Cloud Data Engineer,120000,SGD,89294,SG,50,SG,L,Mid-level Intermediate ,Full-time ,Singapore,Singapore,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+96,2021,EN,PT,AI Scientist,12000,USD,12000,BR,100,US,S,Entry-level Junior ,Part-time ,United States of America,Brazil,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+97,2021,MI,FT,Financial Data Analyst,450000,USD,450000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+98,2021,EN,FT,Computer Vision Software Engineer,70000,USD,70000,US,100,US,M,Entry-level Junior ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+99,2021,MI,FT,Computer Vision Software Engineer,81000,EUR,95746,DE,100,US,S,Mid-level Intermediate ,Full-time ,United States of America,Germany,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+100,2021,MI,FT,Data Analyst,75000,USD,75000,US,0,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,0-20%,Not ML
+101,2021,SE,FT,Data Engineer,150000,USD,150000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+102,2021,MI,FT,BI Data Analyst,11000000,HUF,36259,HU,50,US,L,Mid-level Intermediate ,Full-time ,United States of America,Hungary,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+103,2021,MI,FT,Data Analyst,62000,USD,62000,US,0,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,0-20%,Not ML
+104,2021,MI,FT,Data Scientist,73000,USD,73000,US,0,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+105,2021,MI,FT,Data Analyst,37456,GBP,51519,GB,50,GB,L,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+106,2021,MI,FT,Research Scientist,235000,CAD,187442,CA,100,CA,L,Mid-level Intermediate ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+107,2021,SE,FT,Data Engineer,115000,USD,115000,US,100,US,S,Senior-level Expert ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+108,2021,SE,FT,Data Engineer,150000,USD,150000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+109,2021,EN,FT,Data Engineer,2250000,INR,30428,IN,100,IN,L,Entry-level Junior ,Full-time ,India,India,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+110,2021,SE,FT,Machine Learning Engineer,80000,EUR,94564,DE,50,DE,L,Senior-level Expert ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Engineer,20-80%,ML Professional
+111,2021,SE,FT,Director of Data Engineering,82500,GBP,113476,GB,100,GB,M,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+112,2021,SE,FT,Lead Data Engineer,75000,GBP,103160,GB,100,GB,S,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+113,2021,EN,PT,AI Scientist,12000,USD,12000,PK,100,US,M,Entry-level Junior ,Part-time ,United States of America,Pakistan,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+114,2021,MI,FT,Data Engineer,38400,EUR,45391,NL,100,NL,L,Mid-level Intermediate ,Full-time ,Netherlands,Netherlands,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+115,2021,EN,FT,Machine Learning Scientist,225000,USD,225000,US,100,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,ML Professional
+116,2021,MI,FT,Data Scientist,50000,USD,50000,NG,100,NG,L,Mid-level Intermediate ,Full-time ,Nigeria,Nigeria,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+117,2021,MI,FT,Data Science Engineer,34000,EUR,40189,GR,100,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+118,2021,EN,FT,Data Analyst,90000,USD,90000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Analysis,80-100%,Not ML
+119,2021,MI,FT,Data Engineer,200000,USD,200000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+120,2021,MI,FT,Big Data Engineer,60000,USD,60000,ES,50,RO,M,Mid-level Intermediate ,Full-time ,Romania,Spain,Medium_Between_50_and_250_Emp,Engineer,20-80%,Not ML
+121,2021,SE,FT,Principal Data Engineer,200000,USD,200000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+122,2021,EN,FT,Data Analyst,50000,USD,50000,US,100,US,M,Entry-level Junior ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+123,2021,EN,FT,Applied Data Scientist,80000,GBP,110037,GB,0,GB,L,Entry-level Junior ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+124,2021,EN,PT,Data Analyst,8760,EUR,10354,ES,50,ES,M,Entry-level Junior ,Part-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Analysis,20-80%,Not ML
+125,2021,MI,FT,Principal Data Scientist,151000,USD,151000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+126,2021,SE,FT,Machine Learning Scientist,120000,USD,120000,US,50,US,S,Senior-level Expert ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,20-80%,ML Professional
+127,2021,MI,FT,Data Scientist,700000,INR,9466,IN,0,IN,S,Mid-level Intermediate ,Full-time ,India,India,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+128,2021,EN,FT,Machine Learning Engineer,20000,USD,20000,IN,100,IN,S,Entry-level Junior ,Full-time ,India,India,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+129,2021,SE,FT,Lead Data Scientist,3000000,INR,40570,IN,50,IN,L,Senior-level Expert ,Full-time ,India,India,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+130,2021,EN,FT,Machine Learning Developer,100000,USD,100000,IQ,50,IQ,S,Entry-level Junior ,Full-time ,Iraq,Iraq,Small_Less_than_50_Emp,Other,20-80%,ML Professional
+131,2021,EN,FT,Data Scientist,42000,EUR,49646,FR,50,FR,M,Entry-level Junior ,Full-time ,France,France,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+132,2021,MI,FT,Applied Machine Learning Scientist,38400,USD,38400,VN,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,Viet Nam,Medium_Between_50_and_250_Emp,Scientist,80-100%,ML Professional
+133,2021,SE,FT,Computer Vision Engineer,24000,USD,24000,BR,100,BR,M,Senior-level Expert ,Full-time ,Brazil,Brazil,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+134,2021,EN,FT,Data Scientist,100000,USD,100000,US,0,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+135,2021,MI,FT,Data Analyst,90000,USD,90000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+136,2021,MI,FT,ML Engineer,7000000,JPY,63711,JP,50,JP,S,Mid-level Intermediate ,Full-time ,Japan,Japan,Small_Less_than_50_Emp,Engineer,20-80%,Not ML
+137,2021,MI,FT,ML Engineer,8500000,JPY,77364,JP,50,JP,S,Mid-level Intermediate ,Full-time ,Japan,Japan,Small_Less_than_50_Emp,Engineer,20-80%,Not ML
+138,2021,SE,FT,Principal Data Scientist,220000,USD,220000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+139,2021,EN,FT,Data Scientist,80000,USD,80000,US,100,US,M,Entry-level Junior ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+140,2021,MI,FT,Data Analyst,135000,USD,135000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+141,2021,SE,FT,Data Science Manager,240000,USD,240000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+142,2021,SE,FT,Data Engineering Manager,150000,USD,150000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+143,2021,MI,FT,Data Scientist,82500,USD,82500,US,100,US,S,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+144,2021,MI,FT,Data Engineer,100000,USD,100000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+145,2021,SE,FT,Machine Learning Engineer,70000,EUR,82744,BE,50,BE,M,Senior-level Expert ,Full-time ,Belgium,Belgium,Medium_Between_50_and_250_Emp,Engineer,20-80%,ML Professional
+146,2021,MI,FT,Research Scientist,53000,EUR,62649,FR,50,FR,M,Mid-level Intermediate ,Full-time ,France,France,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+147,2021,MI,FT,Data Engineer,90000,USD,90000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+148,2021,SE,FT,Data Engineering Manager,153000,USD,153000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+149,2021,SE,FT,Cloud Data Engineer,160000,USD,160000,BR,100,US,S,Senior-level Expert ,Full-time ,United States of America,Brazil,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+150,2021,SE,FT,Director of Data Science,168000,USD,168000,JP,0,JP,S,Senior-level Expert ,Full-time ,Japan,Japan,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+151,2021,MI,FT,Data Scientist,150000,USD,150000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+152,2021,MI,FT,Data Scientist,95000,CAD,75774,CA,100,CA,L,Mid-level Intermediate ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+153,2021,EN,FT,Data Scientist,13400,USD,13400,UA,100,UA,L,Entry-level Junior ,Full-time ,Ukraine,Ukraine,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+154,2021,SE,FT,Data Science Manager,144000,USD,144000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+155,2021,SE,FT,Data Science Engineer,159500,CAD,127221,CA,50,CA,L,Senior-level Expert ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+156,2021,MI,FT,Data Scientist,160000,SGD,119059,SG,100,IL,M,Mid-level Intermediate ,Full-time ,Israel,Singapore,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+157,2021,MI,FT,Applied Machine Learning Scientist,423000,USD,423000,US,50,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,ML Professional
+158,2021,SE,FT,Data Analytics Manager,120000,USD,120000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+159,2021,EN,FT,Machine Learning Engineer,125000,USD,125000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+160,2021,EX,FT,Head of Data,230000,USD,230000,RU,50,RU,L,Executive-level Director,Full-time ,Russian Federation,Russian Federation,Large_Greater_than_250_Emp,Other,20-80%,Not ML
+161,2021,EX,FT,Head of Data Science,85000,USD,85000,RU,0,RU,M,Executive-level Director,Full-time ,Russian Federation,Russian Federation,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+162,2021,MI,FT,Data Engineer,24000,EUR,28369,MT,50,MT,L,Mid-level Intermediate ,Full-time ,Malta,Malta,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+163,2021,EN,FT,Data Science Consultant,54000,EUR,63831,DE,50,DE,L,Entry-level Junior ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+164,2021,EX,FT,Director of Data Science,110000,EUR,130026,DE,50,DE,M,Executive-level Director,Full-time ,Germany,Germany,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+165,2021,SE,FT,Data Specialist,165000,USD,165000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Other,80-100%,Not ML
+166,2021,EN,FT,Data Engineer,80000,USD,80000,US,100,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+167,2021,EX,FT,Director of Data Science,250000,USD,250000,US,0,US,L,Executive-level Director,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+168,2021,EN,FT,BI Data Analyst,55000,USD,55000,US,50,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Analysis,20-80%,Not ML
+169,2021,MI,FT,Data Architect,150000,USD,150000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Other,80-100%,Not ML
+170,2021,MI,FT,Data Architect,170000,USD,170000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Other,80-100%,Not ML
+171,2021,MI,FT,Data Engineer,60000,GBP,82528,GB,100,GB,L,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+172,2021,EN,FT,Data Analyst,60000,USD,60000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Analysis,80-100%,Not ML
+173,2021,SE,FT,Principal Data Scientist,235000,USD,235000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+174,2021,SE,FT,Research Scientist,51400,EUR,60757,PT,50,PT,L,Senior-level Expert ,Full-time ,Part-time ,Part-time ,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+175,2021,SE,FT,Data Engineering Manager,174000,USD,174000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+176,2021,MI,FT,Data Scientist,58000,MXN,2859,MX,0,MX,S,Mid-level Intermediate ,Full-time ,Mexico,Mexico,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+177,2021,MI,FT,Data Scientist,30400000,CLP,40038,CL,100,CL,L,Mid-level Intermediate ,Full-time ,Chile,Chile,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+178,2021,EN,FT,Machine Learning Engineer,81000,USD,81000,US,50,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Engineer,20-80%,ML Professional
+179,2021,MI,FT,Data Scientist,420000,INR,5679,IN,100,US,S,Mid-level Intermediate ,Full-time ,United States of America,India,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+180,2021,MI,FT,Big Data Engineer,1672000,INR,22611,IN,0,IN,L,Mid-level Intermediate ,Full-time ,India,India,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+181,2021,MI,FT,Data Scientist,76760,EUR,90734,DE,50,DE,L,Mid-level Intermediate ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+182,2021,MI,FT,Data Engineer,22000,EUR,26005,RO,0,US,L,Mid-level Intermediate ,Full-time ,United States of America,Romania,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+183,2021,SE,FT,Finance Data Analyst,45000,GBP,61896,GB,50,GB,L,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+184,2021,MI,FL,Machine Learning Scientist,12000,USD,12000,PK,50,PK,M,Mid-level Intermediate ,Freelance,Pakistan,Pakistan,Medium_Between_50_and_250_Emp,Scientist,20-80%,ML Professional
+185,2021,MI,FT,Data Engineer,4000,USD,4000,IR,100,IR,M,Mid-level Intermediate ,Full-time ,Iran (Islamic Republic of),Iran (Islamic Republic of),Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+186,2021,SE,FT,Data Analytics Engineer,50000,USD,50000,VN,100,GB,M,Senior-level Expert ,Full-time ,United Kingdom,Viet Nam,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+187,2021,EX,FT,Data Science Consultant,59000,EUR,69741,FR,100,ES,S,Executive-level Director,Full-time ,Spain,France,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+188,2021,SE,FT,Data Engineer,65000,EUR,76833,RO,50,GB,S,Senior-level Expert ,Full-time ,United Kingdom,Romania,Small_Less_than_50_Emp,Engineer,20-80%,Not ML
+189,2021,MI,FT,Machine Learning Engineer,74000,USD,74000,JP,50,JP,S,Mid-level Intermediate ,Full-time ,Japan,Japan,Small_Less_than_50_Emp,Engineer,20-80%,ML Professional
+190,2021,SE,FT,Data Science Manager,152000,USD,152000,US,100,FR,L,Senior-level Expert ,Full-time ,France,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+191,2021,EN,FT,Machine Learning Engineer,21844,USD,21844,CO,50,CO,M,Entry-level Junior ,Full-time ,Colombia,Colombia,Medium_Between_50_and_250_Emp,Engineer,20-80%,ML Professional
+192,2021,MI,FT,Big Data Engineer,18000,USD,18000,MD,0,MD,S,Mid-level Intermediate ,Full-time ,Moldova,Moldova,Small_Less_than_50_Emp,Engineer,0-20%,Not ML
+193,2021,SE,FT,Data Science Manager,174000,USD,174000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+194,2021,SE,FT,Research Scientist,120500,CAD,96113,CA,50,CA,L,Senior-level Expert ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+195,2021,MI,FT,Data Scientist,147000,USD,147000,US,50,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+196,2021,EN,FT,BI Data Analyst,9272,USD,9272,KE,100,KE,S,Entry-level Junior ,Full-time ,Kenya,Kenya,Small_Less_than_50_Emp,Analysis,80-100%,Not ML
+197,2021,SE,FT,Machine Learning Engineer,1799997,INR,24342,IN,100,IN,L,Senior-level Expert ,Full-time ,India,India,Large_Greater_than_250_Emp,Engineer,80-100%,ML Professional
+198,2021,SE,FT,Data Science Manager,4000000,INR,54094,IN,50,US,L,Senior-level Expert ,Full-time ,United States of America,India,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+199,2021,EN,FT,Data Science Consultant,90000,USD,90000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+200,2021,MI,FT,Data Scientist,52000,EUR,61467,DE,50,AT,M,Mid-level Intermediate ,Full-time ,Austria,Germany,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+201,2021,SE,FT,Machine Learning Infrastructure Engineer,195000,USD,195000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,ML Professional
+202,2021,MI,FT,Data Scientist,32000,EUR,37825,ES,100,ES,L,Mid-level Intermediate ,Full-time ,Spain,Spain,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+203,2021,SE,FT,Research Scientist,50000,USD,50000,FR,100,US,S,Senior-level Expert ,Full-time ,United States of America,France,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+204,2021,MI,FT,Data Scientist,160000,USD,160000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+205,2021,MI,FT,Data Scientist,69600,BRL,12901,BR,0,BR,S,Mid-level Intermediate ,Full-time ,Brazil,Brazil,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+206,2021,SE,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,ML Professional
+207,2021,SE,FT,Data Engineer,165000,USD,165000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+208,2021,MI,FL,Data Engineer,20000,USD,20000,IT,0,US,L,Mid-level Intermediate ,Freelance,United States of America,Italy,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+209,2021,SE,FT,Data Analytics Manager,120000,USD,120000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,0-20%,Not ML
+210,2021,MI,FT,Machine Learning Engineer,21000,EUR,24823,SI,50,SI,L,Mid-level Intermediate ,Full-time ,Slovenia,Slovenia,Large_Greater_than_250_Emp,Engineer,20-80%,ML Professional
+211,2021,MI,FT,Research Scientist,48000,EUR,56738,FR,50,FR,S,Mid-level Intermediate ,Full-time ,France,France,Small_Less_than_50_Emp,Scientist,20-80%,Not ML
+212,2021,MI,FT,Data Engineer,48000,GBP,66022,HK,50,GB,S,Mid-level Intermediate ,Full-time ,United Kingdom,Hong Kong,Small_Less_than_50_Emp,Engineer,20-80%,Not ML
+213,2021,EN,FT,Big Data Engineer,435000,INR,5882,IN,0,CH,L,Entry-level Junior ,Full-time ,Switzerland,India,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+214,2021,EN,FT,Machine Learning Engineer,21000,EUR,24823,DE,50,DE,M,Entry-level Junior ,Full-time ,Germany,Germany,Medium_Between_50_and_250_Emp,Engineer,20-80%,ML Professional
+215,2021,SE,FT,Principal Data Engineer,185000,USD,185000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+216,2021,EN,PT,Computer Vision Engineer,180000,DKK,28609,DK,50,DK,S,Entry-level Junior ,Part-time ,Denmark,Denmark,Small_Less_than_50_Emp,Engineer,20-80%,Not ML
+217,2021,MI,FT,Data Scientist,76760,EUR,90734,DE,50,DE,L,Mid-level Intermediate ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+218,2021,MI,FT,Machine Learning Engineer,75000,EUR,88654,BE,100,BE,M,Mid-level Intermediate ,Full-time ,Belgium,Belgium,Medium_Between_50_and_250_Emp,Engineer,80-100%,ML Professional
+219,2021,SE,FT,Data Analytics Manager,140000,USD,140000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+220,2021,MI,FT,Machine Learning Engineer,180000,PLN,46597,PL,100,PL,L,Mid-level Intermediate ,Full-time ,Poland,Poland,Large_Greater_than_250_Emp,Engineer,80-100%,ML Professional
+221,2021,MI,FT,Data Scientist,85000,GBP,116914,GB,50,GB,L,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+222,2021,MI,FT,Data Scientist,2500000,INR,33808,IN,0,IN,M,Mid-level Intermediate ,Full-time ,India,India,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+223,2021,MI,FT,Data Scientist,40900,GBP,56256,GB,50,GB,L,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+224,2021,SE,FT,Machine Learning Scientist,225000,USD,225000,US,100,CA,L,Senior-level Expert ,Full-time ,Canada,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,ML Professional
+225,2021,EX,CT,Principal Data Scientist,416000,USD,416000,US,100,US,S,Executive-level Director,Contract ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+226,2021,SE,FT,Data Scientist,110000,CAD,87738,CA,100,CA,S,Senior-level Expert ,Full-time ,Canada,Canada,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+227,2021,MI,FT,Data Scientist,75000,EUR,88654,DE,50,DE,L,Mid-level Intermediate ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+228,2021,SE,FT,Data Scientist,135000,USD,135000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+229,2021,SE,FT,Data Analyst,90000,CAD,71786,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+230,2021,EN,FT,Big Data Engineer,1200000,INR,16228,IN,100,IN,L,Entry-level Junior ,Full-time ,India,India,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+231,2021,SE,FT,ML Engineer,256000,USD,256000,US,100,US,S,Senior-level Expert ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+232,2021,SE,FT,Director of Data Engineering,200000,USD,200000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+233,2021,SE,FT,Data Analyst,200000,USD,200000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+234,2021,MI,FT,Data Architect,180000,USD,180000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Other,80-100%,Not ML
+235,2021,MI,FT,Head of Data Science,110000,USD,110000,US,0,US,S,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,0-20%,Not ML
+236,2021,MI,FT,Research Scientist,80000,CAD,63810,CA,100,CA,M,Mid-level Intermediate ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+237,2021,MI,FT,Data Scientist,39600,EUR,46809,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+238,2021,EN,FT,Data Scientist,4000,USD,4000,VN,0,VN,M,Entry-level Junior ,Full-time ,Viet Nam,Viet Nam,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+239,2021,EN,FT,Data Engineer,1600000,INR,21637,IN,50,IN,M,Entry-level Junior ,Full-time ,India,India,Medium_Between_50_and_250_Emp,Engineer,20-80%,Not ML
+240,2021,SE,FT,Data Scientist,130000,CAD,103691,CA,100,CA,L,Senior-level Expert ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+241,2021,MI,FT,Data Analyst,80000,USD,80000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+242,2021,MI,FT,Data Engineer,110000,USD,110000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+243,2021,SE,FT,Data Scientist,165000,USD,165000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+244,2021,EN,FT,AI Scientist,1335000,INR,18053,IN,100,AS,S,Entry-level Junior ,Full-time ,American Samoa,India,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+245,2021,MI,FT,Data Engineer,52500,GBP,72212,GB,50,GB,L,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+246,2021,EN,FT,Data Scientist,31000,EUR,36643,FR,50,FR,L,Entry-level Junior ,Full-time ,France,France,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+247,2021,MI,FT,Data Engineer,108000,TRY,12103,TR,0,TR,M,Mid-level Intermediate ,Full-time ,Turkey,Turkey,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+248,2021,SE,FT,Data Engineer,70000,GBP,96282,GB,50,GB,L,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+249,2021,SE,FT,Principal Data Analyst,170000,USD,170000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+250,2021,MI,FT,Data Scientist,115000,USD,115000,US,50,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+251,2021,EN,FT,Data Scientist,90000,USD,90000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+252,2021,EX,FT,Principal Data Engineer,600000,USD,600000,US,100,US,L,Executive-level Director,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+253,2021,EN,FT,Data Scientist,2100000,INR,28399,IN,100,IN,M,Entry-level Junior ,Full-time ,India,India,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+254,2021,MI,FT,Data Analyst,93000,USD,93000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+255,2021,SE,FT,Big Data Architect,125000,CAD,99703,CA,50,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Other,20-80%,Not ML
+256,2021,MI,FT,Data Engineer,200000,USD,200000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+257,2021,SE,FT,Principal Data Scientist,147000,EUR,173762,DE,100,DE,M,Senior-level Expert ,Full-time ,Germany,Germany,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+258,2021,SE,FT,Machine Learning Engineer,185000,USD,185000,US,50,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,20-80%,ML Professional
+259,2021,EX,FT,Director of Data Science,120000,EUR,141846,DE,0,DE,L,Executive-level Director,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+260,2021,MI,FT,Data Scientist,130000,USD,130000,US,50,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+261,2021,SE,FT,Data Analyst,54000,EUR,63831,DE,50,DE,L,Senior-level Expert ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+262,2021,MI,FT,Data Scientist,1250000,INR,16904,IN,100,IN,S,Mid-level Intermediate ,Full-time ,India,India,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+263,2021,SE,FT,Machine Learning Engineer,4900000,INR,66265,IN,0,IN,L,Senior-level Expert ,Full-time ,India,India,Large_Greater_than_250_Emp,Engineer,0-20%,ML Professional
+264,2021,MI,FT,Data Scientist,21600,EUR,25532,RS,100,DE,S,Mid-level Intermediate ,Full-time ,Germany,Serbia,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+265,2021,SE,FT,Lead Data Engineer,160000,USD,160000,PR,50,US,S,Senior-level Expert ,Full-time ,United States of America,Puerto Rico,Small_Less_than_50_Emp,Engineer,20-80%,Not ML
+266,2021,MI,FT,Data Engineer,93150,USD,93150,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+267,2021,MI,FT,Data Engineer,111775,USD,111775,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+268,2021,MI,FT,Data Engineer,250000,TRY,28016,TR,100,TR,M,Mid-level Intermediate ,Full-time ,Turkey,Turkey,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+269,2021,EN,FT,Data Engineer,55000,EUR,65013,DE,50,DE,M,Entry-level Junior ,Full-time ,Germany,Germany,Medium_Between_50_and_250_Emp,Engineer,20-80%,Not ML
+270,2021,EN,FT,Data Engineer,72500,USD,72500,US,100,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+271,2021,SE,FT,Computer Vision Engineer,102000,BRL,18907,BR,0,BR,M,Senior-level Expert ,Full-time ,Brazil,Brazil,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+272,2021,EN,FT,Data Science Consultant,65000,EUR,76833,DE,0,DE,L,Entry-level Junior ,Full-time ,Germany,Germany,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+273,2021,EN,FT,Machine Learning Engineer,85000,USD,85000,NL,100,DE,S,Entry-level Junior ,Full-time ,Germany,Netherlands,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+274,2021,SE,FT,Data Scientist,65720,EUR,77684,FR,50,FR,M,Senior-level Expert ,Full-time ,France,France,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+275,2021,EN,FT,Data Scientist,100000,USD,100000,US,100,US,M,Entry-level Junior ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+276,2021,EN,FT,Data Scientist,58000,USD,58000,US,50,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+277,2021,SE,FT,AI Scientist,55000,USD,55000,ES,100,ES,L,Senior-level Expert ,Full-time ,Spain,Spain,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+278,2021,SE,FT,Data Scientist,180000,TRY,20171,TR,50,TR,L,Senior-level Expert ,Full-time ,Turkey,Turkey,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+279,2021,EN,FT,Business Data Analyst,50000,EUR,59102,LU,100,LU,L,Entry-level Junior ,Full-time ,Luxembourg,Luxembourg,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+280,2021,MI,FT,Data Engineer,112000,USD,112000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+281,2021,EN,FT,Research Scientist,100000,USD,100000,JE,0,CN,L,Entry-level Junior ,Full-time ,China,Jersey,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+282,2021,MI,PT,Data Engineer,59000,EUR,69741,NL,100,NL,L,Mid-level Intermediate ,Part-time ,Netherlands,Netherlands,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+283,2021,SE,CT,Staff Data Scientist,105000,USD,105000,US,100,US,M,Senior-level Expert ,Contract ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+284,2021,MI,FT,Research Scientist,69999,USD,69999,CZ,50,CZ,L,Mid-level Intermediate ,Full-time ,Czechia,Czechia,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+285,2021,SE,FT,Data Science Manager,7000000,INR,94665,IN,50,IN,L,Senior-level Expert ,Full-time ,India,India,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+286,2021,SE,FT,Head of Data,87000,EUR,102839,SI,100,SI,L,Senior-level Expert ,Full-time ,Slovenia,Slovenia,Large_Greater_than_250_Emp,Other,80-100%,Not ML
+287,2021,MI,FT,Data Scientist,109000,USD,109000,US,50,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+288,2021,MI,FT,Machine Learning Engineer,43200,EUR,51064,IT,50,IT,L,Mid-level Intermediate ,Full-time ,Italy,Italy,Large_Greater_than_250_Emp,Engineer,20-80%,ML Professional
+289,2022,SE,FT,Data Engineer,135000,USD,135000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+290,2022,SE,FT,Data Analyst,155000,USD,155000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+291,2022,SE,FT,Data Analyst,120600,USD,120600,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+292,2022,MI,FT,Data Scientist,130000,USD,130000,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+293,2022,MI,FT,Data Scientist,90000,USD,90000,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+294,2022,MI,FT,Data Engineer,170000,USD,170000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+295,2022,MI,FT,Data Engineer,150000,USD,150000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+296,2022,SE,FT,Data Analyst,102100,USD,102100,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+297,2022,SE,FT,Data Analyst,84900,USD,84900,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+298,2022,SE,FT,Data Scientist,136620,USD,136620,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+299,2022,SE,FT,Data Scientist,99360,USD,99360,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+300,2022,SE,FT,Data Scientist,90000,GBP,117789,GB,0,GB,M,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+301,2022,SE,FT,Data Scientist,80000,GBP,104702,GB,0,GB,M,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+302,2022,SE,FT,Data Scientist,146000,USD,146000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+303,2022,SE,FT,Data Scientist,123000,USD,123000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+304,2022,EN,FT,Data Engineer,40000,GBP,52351,GB,100,GB,M,Entry-level Junior ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+305,2022,SE,FT,Data Analyst,99000,USD,99000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+306,2022,SE,FT,Data Analyst,116000,USD,116000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+307,2022,MI,FT,Data Analyst,106260,USD,106260,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+308,2022,MI,FT,Data Analyst,126500,USD,126500,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+309,2022,EX,FT,Data Engineer,242000,USD,242000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+310,2022,EX,FT,Data Engineer,200000,USD,200000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+311,2022,MI,FT,Data Scientist,50000,GBP,65438,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+312,2022,MI,FT,Data Scientist,30000,GBP,39263,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+313,2022,MI,FT,Data Engineer,60000,GBP,78526,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+314,2022,MI,FT,Data Engineer,40000,GBP,52351,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+315,2022,SE,FT,Data Scientist,165220,USD,165220,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+316,2022,EN,FT,Data Engineer,35000,GBP,45807,GB,100,GB,M,Entry-level Junior ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+317,2022,SE,FT,Data Scientist,120160,USD,120160,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+318,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+319,2022,SE,FT,Data Engineer,181940,USD,181940,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+320,2022,SE,FT,Data Engineer,132320,USD,132320,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+321,2022,SE,FT,Data Engineer,220110,USD,220110,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+322,2022,SE,FT,Data Engineer,160080,USD,160080,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+323,2022,SE,FT,Data Scientist,180000,USD,180000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+324,2022,SE,FT,Data Scientist,120000,USD,120000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+325,2022,SE,FT,Data Analyst,124190,USD,124190,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+326,2022,EX,FT,Data Analyst,130000,USD,130000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+327,2022,EX,FT,Data Analyst,110000,USD,110000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+328,2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+329,2022,MI,FT,Data Analyst,115500,USD,115500,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+330,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+331,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+332,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+333,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+334,2022,SE,FT,Data Engineer,165400,USD,165400,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+335,2022,SE,FT,Data Engineer,132320,USD,132320,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+336,2022,MI,FT,Data Analyst,167000,USD,167000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+337,2022,SE,FT,Data Engineer,243900,USD,243900,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+338,2022,SE,FT,Data Analyst,136600,USD,136600,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+339,2022,SE,FT,Data Analyst,109280,USD,109280,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+340,2022,SE,FT,Data Engineer,128875,USD,128875,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+341,2022,SE,FT,Data Engineer,93700,USD,93700,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+342,2022,EX,FT,Head of Data Science,224000,USD,224000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+343,2022,EX,FT,Head of Data Science,167875,USD,167875,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+344,2022,EX,FT,Analytics Engineer,175000,USD,175000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+345,2022,SE,FT,Data Engineer,156600,USD,156600,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+346,2022,SE,FT,Data Engineer,108800,USD,108800,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+347,2022,SE,FT,Data Scientist,95550,USD,95550,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+348,2022,SE,FT,Data Engineer,113000,USD,113000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+349,2022,SE,FT,Data Analyst,135000,USD,135000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+350,2022,SE,FT,Data Science Manager,161342,USD,161342,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+351,2022,SE,FT,Data Science Manager,137141,USD,137141,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+352,2022,SE,FT,Data Scientist,167000,USD,167000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+353,2022,SE,FT,Data Scientist,123000,USD,123000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+354,2022,SE,FT,Data Engineer,60000,GBP,78526,GB,0,GB,M,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+355,2022,SE,FT,Data Engineer,50000,GBP,65438,GB,0,GB,M,Senior-level Expert ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+356,2022,SE,FT,Data Scientist,150000,USD,150000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+357,2022,SE,FT,Data Scientist,211500,USD,211500,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+358,2022,SE,FT,Data Architect,192400,USD,192400,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+359,2022,SE,FT,Data Architect,90700,USD,90700,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+360,2022,SE,FT,Data Analyst,130000,USD,130000,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+361,2022,SE,FT,Data Analyst,61300,USD,61300,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+362,2022,SE,FT,Data Analyst,130000,USD,130000,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+363,2022,SE,FT,Data Analyst,61300,USD,61300,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+364,2022,SE,FT,Data Engineer,160000,USD,160000,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,0-20%,Not ML
+365,2022,SE,FT,Data Scientist,138600,USD,138600,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+366,2022,SE,FT,Data Engineer,136000,USD,136000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+367,2022,MI,FT,Data Analyst,58000,USD,58000,US,0,US,S,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Analysis,0-20%,Not ML
+368,2022,EX,FT,Analytics Engineer,135000,USD,135000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+369,2022,SE,FT,Data Scientist,170000,USD,170000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+370,2022,SE,FT,Data Scientist,123000,USD,123000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+371,2022,SE,FT,Machine Learning Engineer,189650,USD,189650,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+372,2022,SE,FT,Machine Learning Engineer,164996,USD,164996,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+373,2022,MI,FT,ETL Developer,50000,EUR,54957,GR,0,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Other,0-20%,Not ML
+374,2022,MI,FT,ETL Developer,50000,EUR,54957,GR,0,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Other,0-20%,Not ML
+375,2022,EX,FT,Lead Data Engineer,150000,CAD,118187,CA,100,CA,S,Executive-level Director,Full-time ,Canada,Canada,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+376,2022,SE,FT,Data Analyst,132000,USD,132000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+377,2022,SE,FT,Data Engineer,165400,USD,165400,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+378,2022,SE,FT,Data Architect,208775,USD,208775,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+379,2022,SE,FT,Data Architect,147800,USD,147800,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+380,2022,SE,FT,Data Engineer,136994,USD,136994,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+381,2022,SE,FT,Data Engineer,101570,USD,101570,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+382,2022,SE,FT,Data Analyst,128875,USD,128875,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+383,2022,SE,FT,Data Analyst,93700,USD,93700,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+384,2022,EX,FT,Head of Machine Learning,6000000,INR,79039,IN,50,IN,L,Executive-level Director,Full-time ,India,India,Large_Greater_than_250_Emp,Other,20-80%,ML Professional
+385,2022,SE,FT,Data Engineer,132320,USD,132320,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+386,2022,EN,FT,Machine Learning Engineer,28500,GBP,37300,GB,100,GB,L,Entry-level Junior ,Full-time ,United Kingdom,United Kingdom,Large_Greater_than_250_Emp,Engineer,80-100%,ML Professional
+387,2022,SE,FT,Data Analyst,164000,USD,164000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+388,2022,SE,FT,Data Engineer,155000,USD,155000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+389,2022,MI,FT,Machine Learning Engineer,95000,GBP,124333,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+390,2022,MI,FT,Machine Learning Engineer,75000,GBP,98158,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+391,2022,MI,FT,AI Scientist,120000,USD,120000,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+392,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+393,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+394,2022,SE,FT,Data Analytics Manager,145000,USD,145000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+395,2022,SE,FT,Data Analytics Manager,105400,USD,105400,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+396,2022,MI,FT,Machine Learning Engineer,80000,EUR,87932,FR,100,DE,M,Mid-level Intermediate ,Full-time ,Germany,France,Medium_Between_50_and_250_Emp,Engineer,80-100%,ML Professional
+397,2022,MI,FT,Data Engineer,90000,GBP,117789,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+398,2022,SE,FT,Data Scientist,215300,USD,215300,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+399,2022,SE,FT,Data Scientist,158200,USD,158200,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+400,2022,SE,FT,Data Engineer,209100,USD,209100,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+401,2022,SE,FT,Data Engineer,154600,USD,154600,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+402,2022,SE,FT,Data Analyst,115934,USD,115934,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+403,2022,SE,FT,Data Analyst,81666,USD,81666,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+404,2022,SE,FT,Data Engineer,175000,USD,175000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+405,2022,MI,FT,Data Engineer,75000,GBP,98158,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+406,2022,MI,FT,Data Analyst,58000,USD,58000,US,0,US,S,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Analysis,0-20%,Not ML
+407,2022,SE,FT,Data Engineer,183600,USD,183600,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+408,2022,MI,FT,Data Analyst,40000,GBP,52351,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+409,2022,SE,FT,Data Scientist,180000,USD,180000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+410,2022,MI,FT,Data Scientist,55000,GBP,71982,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+411,2022,MI,FT,Data Scientist,35000,GBP,45807,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+412,2022,MI,FT,Data Engineer,60000,EUR,65949,GR,100,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+413,2022,MI,FT,Data Engineer,45000,EUR,49461,GR,100,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+414,2022,MI,FT,Data Engineer,60000,GBP,78526,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+415,2022,MI,FT,Data Engineer,45000,GBP,58894,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+416,2022,SE,FT,Data Scientist,260000,USD,260000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+417,2022,SE,FT,Data Science Engineer,60000,USD,60000,AR,100,MX,L,Senior-level Expert ,Full-time ,Mexico,Argentina,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+418,2022,MI,FT,Data Engineer,63900,USD,63900,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+419,2022,MI,FT,Machine Learning Scientist,160000,USD,160000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,ML Professional
+420,2022,MI,FT,Machine Learning Scientist,112300,USD,112300,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,ML Professional
+421,2022,MI,FT,Data Science Manager,241000,USD,241000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+422,2022,MI,FT,Data Science Manager,159000,USD,159000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+423,2022,SE,FT,Data Scientist,180000,USD,180000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+424,2022,SE,FT,Data Scientist,80000,USD,80000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+425,2022,MI,FT,Data Engineer,82900,USD,82900,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+426,2022,SE,FT,Data Engineer,100800,USD,100800,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+427,2022,MI,FT,Data Engineer,45000,EUR,49461,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+428,2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+429,2022,MI,FT,Data Analyst,30000,GBP,39263,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+430,2022,MI,FT,Data Analyst,40000,EUR,43966,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+431,2022,MI,FT,Data Analyst,30000,EUR,32974,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+432,2022,MI,FT,Data Engineer,80000,EUR,87932,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+433,2022,MI,FT,Data Engineer,70000,EUR,76940,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+434,2022,MI,FT,Data Engineer,80000,GBP,104702,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+435,2022,MI,FT,Data Engineer,70000,GBP,91614,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+436,2022,MI,FT,Data Engineer,60000,EUR,65949,ES,100,ES,M,Mid-level Intermediate ,Full-time ,Spain,Spain,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+437,2022,MI,FT,Data Engineer,80000,EUR,87932,GR,100,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+438,2022,SE,FT,Machine Learning Engineer,189650,USD,189650,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+439,2022,SE,FT,Machine Learning Engineer,164996,USD,164996,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+440,2022,MI,FT,Data Analyst,40000,EUR,43966,GR,100,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+441,2022,MI,FT,Data Analyst,30000,EUR,32974,GR,100,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+442,2022,MI,FT,Data Engineer,75000,GBP,98158,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+443,2022,MI,FT,Data Engineer,60000,GBP,78526,GB,100,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+444,2022,SE,FT,Data Scientist,215300,USD,215300,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+445,2022,MI,FT,Data Engineer,70000,EUR,76940,GR,100,GR,M,Mid-level Intermediate ,Full-time ,Greece,Greece,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+446,2022,SE,FT,Data Engineer,209100,USD,209100,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+447,2022,SE,FT,Data Engineer,154600,USD,154600,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+448,2022,SE,FT,Data Engineer,180000,USD,180000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+449,2022,EN,FT,ML Engineer,20000,EUR,21983,PT,100,PT,L,Entry-level Junior ,Full-time ,Part-time ,Part-time ,Large_Greater_than_250_Emp,Engineer,80-100%,Not ML
+450,2022,SE,FT,Data Engineer,80000,USD,80000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+451,2022,MI,FT,Machine Learning Developer,100000,CAD,78791,CA,100,CA,M,Mid-level Intermediate ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Other,80-100%,ML Professional
+452,2022,EX,FT,Director of Data Science,250000,CAD,196979,CA,50,CA,L,Executive-level Director,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+453,2022,MI,FT,Machine Learning Engineer,120000,USD,120000,US,100,US,S,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+454,2022,EN,FT,Computer Vision Engineer,125000,USD,125000,US,0,US,M,Entry-level Junior ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+455,2022,MI,FT,NLP Engineer,240000,CNY,37236,US,50,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+456,2022,SE,FT,Data Engineer,105000,USD,105000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+457,2022,SE,FT,Lead Machine Learning Engineer,80000,EUR,87932,DE,0,DE,M,Senior-level Expert ,Full-time ,Germany,Germany,Medium_Between_50_and_250_Emp,Engineer,0-20%,ML Professional
+458,2022,MI,FT,Business Data Analyst,1400000,INR,18442,IN,100,IN,M,Mid-level Intermediate ,Full-time ,India,India,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+459,2022,MI,FT,Data Scientist,2400000,INR,31615,IN,100,IN,L,Mid-level Intermediate ,Full-time ,India,India,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+460,2022,MI,FT,Machine Learning Infrastructure Engineer,53000,EUR,58255,PT,50,PT,L,Mid-level Intermediate ,Full-time ,Part-time ,Part-time ,Large_Greater_than_250_Emp,Engineer,20-80%,ML Professional
+461,2022,EN,FT,Financial Data Analyst,100000,USD,100000,US,50,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+462,2022,MI,PT,Data Engineer,50000,EUR,54957,DE,50,DE,L,Mid-level Intermediate ,Part-time ,Germany,Germany,Large_Greater_than_250_Emp,Engineer,20-80%,Not ML
+463,2022,EN,FT,Data Scientist,1400000,INR,18442,IN,100,IN,M,Entry-level Junior ,Full-time ,India,India,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+464,2022,SE,FT,Principal Data Scientist,148000,EUR,162674,DE,100,DE,M,Senior-level Expert ,Full-time ,Germany,Germany,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+465,2022,EN,FT,Data Engineer,120000,USD,120000,US,100,US,M,Entry-level Junior ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+466,2022,SE,FT,Research Scientist,144000,USD,144000,US,50,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+467,2022,SE,FT,Data Scientist,104890,USD,104890,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+468,2022,SE,FT,Data Engineer,100000,USD,100000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+469,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+470,2022,MI,FT,Data Analyst,135000,USD,135000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+471,2022,MI,FT,Data Analyst,50000,USD,50000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+472,2022,SE,FT,Data Scientist,220000,USD,220000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+473,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+474,2022,MI,FT,Data Scientist,140000,GBP,183228,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+475,2022,MI,FT,Data Scientist,70000,GBP,91614,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+476,2022,SE,FT,Data Scientist,185100,USD,185100,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+477,2022,SE,FT,Machine Learning Engineer,220000,USD,220000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,ML Professional
+478,2022,MI,FT,Data Scientist,200000,USD,200000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+479,2022,MI,FT,Data Scientist,120000,USD,120000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+480,2022,SE,FT,Machine Learning Engineer,120000,USD,120000,AE,100,AE,S,Senior-level Expert ,Full-time ,United Arab Emirates,United Arab Emirates,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+481,2022,SE,FT,Machine Learning Engineer,65000,USD,65000,AE,100,AE,S,Senior-level Expert ,Full-time ,United Arab Emirates,United Arab Emirates,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+482,2022,EX,FT,Data Engineer,324000,USD,324000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+483,2022,EX,FT,Data Engineer,216000,USD,216000,US,100,US,M,Executive-level Director,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+484,2022,SE,FT,Data Engineer,210000,USD,210000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+485,2022,SE,FT,Machine Learning Engineer,120000,USD,120000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,ML Professional
+486,2022,SE,FT,Data Scientist,230000,USD,230000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+487,2022,EN,PT,Data Scientist,100000,USD,100000,DZ,50,DZ,M,Entry-level Junior ,Part-time ,Algeria,Algeria,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+488,2022,MI,FL,Data Scientist,100000,USD,100000,CA,100,US,M,Mid-level Intermediate ,Freelance,United States of America,Canada,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+489,2022,EN,CT,Applied Machine Learning Scientist,29000,EUR,31875,TN,100,CZ,M,Entry-level Junior ,Contract ,Czechia,Tunisia,Medium_Between_50_and_250_Emp,Scientist,80-100%,ML Professional
+490,2022,SE,FT,Head of Data,200000,USD,200000,MY,100,US,M,Senior-level Expert ,Full-time ,United States of America,Malaysia,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+491,2022,MI,FT,Principal Data Analyst,75000,USD,75000,CA,100,CA,S,Mid-level Intermediate ,Full-time ,Canada,Canada,Small_Less_than_50_Emp,Analysis,80-100%,Not ML
+492,2022,MI,FT,Data Scientist,150000,PLN,35590,PL,100,PL,L,Mid-level Intermediate ,Full-time ,Poland,Poland,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+493,2022,SE,FT,Machine Learning Developer,100000,CAD,78791,CA,100,CA,M,Senior-level Expert ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Other,80-100%,ML Professional
+494,2022,SE,FT,Data Scientist,100000,USD,100000,BR,100,US,M,Senior-level Expert ,Full-time ,United States of America,Brazil,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+495,2022,MI,FT,Machine Learning Scientist,153000,USD,153000,US,50,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,20-80%,ML Professional
+496,2022,EN,FT,Data Engineer,52800,EUR,58035,PK,100,DE,M,Entry-level Junior ,Full-time ,Germany,Pakistan,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+497,2022,SE,FT,Data Scientist,165000,USD,165000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+498,2022,SE,FT,Research Scientist,85000,EUR,93427,FR,50,FR,L,Senior-level Expert ,Full-time ,France,France,Large_Greater_than_250_Emp,Scientist,20-80%,Not ML
+499,2022,EN,FT,Data Scientist,66500,CAD,52396,CA,100,CA,L,Entry-level Junior ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+500,2022,SE,FT,Machine Learning Engineer,57000,EUR,62651,NL,100,NL,L,Senior-level Expert ,Full-time ,Netherlands,Netherlands,Large_Greater_than_250_Emp,Engineer,80-100%,ML Professional
+501,2022,MI,FT,Head of Data,30000,EUR,32974,EE,100,EE,S,Mid-level Intermediate ,Full-time ,Estonia,Estonia,Small_Less_than_50_Emp,Other,80-100%,Not ML
+502,2022,EN,FT,Data Scientist,40000,USD,40000,JP,100,MY,L,Entry-level Junior ,Full-time ,Malaysia,Japan,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+503,2022,MI,FT,Machine Learning Engineer,121000,AUD,87425,AU,100,AU,L,Mid-level Intermediate ,Full-time ,Australia,Australia,Large_Greater_than_250_Emp,Engineer,80-100%,ML Professional
+504,2022,SE,FT,Data Engineer,115000,USD,115000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+505,2022,EN,FT,Data Scientist,120000,AUD,86703,AU,50,AU,M,Entry-level Junior ,Full-time ,Australia,Australia,Medium_Between_50_and_250_Emp,Scientist,20-80%,Not ML
+506,2022,MI,FT,Applied Machine Learning Scientist,75000,USD,75000,BO,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,Bolivia,Large_Greater_than_250_Emp,Scientist,80-100%,ML Professional
+507,2022,MI,FT,Research Scientist,59000,EUR,64849,AT,0,AT,L,Mid-level Intermediate ,Full-time ,Austria,Austria,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+508,2022,EN,FT,Research Scientist,120000,USD,120000,US,100,US,L,Entry-level Junior ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+509,2022,MI,FT,Applied Data Scientist,157000,USD,157000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+510,2022,EN,FT,Computer Vision Software Engineer,150000,USD,150000,AU,100,AU,S,Entry-level Junior ,Full-time ,Australia,Australia,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+511,2022,MI,FT,Business Data Analyst,90000,CAD,70912,CA,50,CA,L,Mid-level Intermediate ,Full-time ,Canada,Canada,Large_Greater_than_250_Emp,Analysis,20-80%,Not ML
+512,2022,EN,FT,Data Engineer,65000,USD,65000,US,100,US,S,Entry-level Junior ,Full-time ,United States of America,United States of America,Small_Less_than_50_Emp,Engineer,80-100%,Not ML
+513,2022,SE,FT,Machine Learning Engineer,65000,EUR,71444,IE,100,IE,S,Senior-level Expert ,Full-time ,Ireland,Ireland,Small_Less_than_50_Emp,Engineer,80-100%,ML Professional
+514,2022,EN,FT,Data Analytics Engineer,20000,USD,20000,PK,0,PK,M,Entry-level Junior ,Full-time ,Pakistan,Pakistan,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+515,2022,MI,FT,Data Scientist,48000,USD,48000,RU,100,US,S,Mid-level Intermediate ,Full-time ,United States of America,Russian Federation,Small_Less_than_50_Emp,Scientist,80-100%,Not ML
+516,2022,SE,FT,Data Science Manager,152500,USD,152500,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+517,2022,MI,FT,Data Engineer,62000,EUR,68147,FR,100,FR,M,Mid-level Intermediate ,Full-time ,France,France,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+518,2022,MI,FT,Data Scientist,115000,CHF,122346,CH,0,CH,L,Mid-level Intermediate ,Full-time ,Switzerland,Switzerland,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+519,2022,SE,FT,Applied Data Scientist,380000,USD,380000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+520,2022,MI,FT,Data Scientist,88000,CAD,69336,CA,100,CA,M,Mid-level Intermediate ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+521,2022,EN,FT,Computer Vision Engineer,10000,USD,10000,PT,100,LU,M,Entry-level Junior ,Full-time ,Luxembourg,Part-time ,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+522,2022,MI,FT,Data Analyst,20000,USD,20000,GR,100,GR,S,Mid-level Intermediate ,Full-time ,Greece,Greece,Small_Less_than_50_Emp,Analysis,80-100%,Not ML
+523,2022,SE,FT,Data Analytics Lead,405000,USD,405000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Analysis,80-100%,Not ML
+524,2022,MI,FT,Data Scientist,135000,USD,135000,US,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+525,2022,SE,FT,Applied Data Scientist,177000,USD,177000,US,100,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
+526,2022,MI,FT,Data Scientist,78000,USD,78000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+527,2022,SE,FT,Data Analyst,135000,USD,135000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+528,2022,SE,FT,Data Analyst,100000,USD,100000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+529,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+530,2022,MI,FT,Data Analyst,85000,USD,85000,CA,0,CA,M,Mid-level Intermediate ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+531,2022,MI,FT,Data Analyst,75000,USD,75000,CA,0,CA,M,Mid-level Intermediate ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+532,2022,SE,FT,Machine Learning Engineer,214000,USD,214000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,ML Professional
+533,2022,SE,FT,Machine Learning Engineer,192600,USD,192600,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,ML Professional
+534,2022,SE,FT,Data Architect,266400,USD,266400,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+535,2022,SE,FT,Data Architect,213120,USD,213120,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+536,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+537,2022,SE,FT,Data Engineer,155000,USD,155000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+538,2022,MI,FT,Data Scientist,141300,USD,141300,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+539,2022,MI,FT,Data Scientist,102100,USD,102100,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+540,2022,SE,FT,Data Analyst,115934,USD,115934,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+541,2022,SE,FT,Data Analyst,81666,USD,81666,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+542,2022,MI,FT,Data Engineer,206699,USD,206699,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+543,2022,MI,FT,Data Engineer,99100,USD,99100,US,0,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+544,2022,SE,FT,Data Engineer,130000,USD,130000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+545,2022,SE,FT,Data Engineer,115000,USD,115000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+546,2022,SE,FT,Data Engineer,110500,USD,110500,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+547,2022,SE,FT,Data Engineer,130000,USD,130000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+548,2022,SE,FT,Data Analyst,99050,USD,99050,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+549,2022,SE,FT,Data Engineer,160000,USD,160000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+550,2022,SE,FT,Data Scientist,205300,USD,205300,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+551,2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,L,Senior-level Expert ,Full-time ,United States of America,United States of America,Large_Greater_than_250_Emp,Scientist,0-20%,Not ML
+552,2022,SE,FT,Data Scientist,176000,USD,176000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+553,2022,SE,FT,Data Scientist,144000,USD,144000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+554,2022,SE,FT,Data Engineer,200100,USD,200100,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+555,2022,SE,FT,Data Engineer,160000,USD,160000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+556,2022,SE,FT,Data Engineer,145000,USD,145000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+557,2022,SE,FT,Data Engineer,70500,USD,70500,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+558,2022,SE,FT,Data Scientist,205300,USD,205300,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+559,2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,0-20%,Not ML
+560,2022,SE,FT,Analytics Engineer,205300,USD,205300,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+561,2022,SE,FT,Analytics Engineer,184700,USD,184700,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+562,2022,SE,FT,Data Engineer,175100,USD,175100,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+563,2022,SE,FT,Data Engineer,140250,USD,140250,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+564,2022,SE,FT,Data Analyst,116150,USD,116150,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+565,2022,SE,FT,Data Engineer,54000,USD,54000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,0-20%,Not ML
+566,2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+567,2022,MI,FT,Data Analyst,50000,GBP,65438,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+568,2022,SE,FT,Data Analyst,80000,USD,80000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+569,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+570,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+571,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+572,2022,SE,FT,Data Analyst,100000,USD,100000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+573,2022,SE,FT,Data Analyst,69000,USD,69000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+574,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+575,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+576,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+577,2022,SE,FT,Data Analyst,150075,USD,150075,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+578,2022,SE,FT,Data Engineer,100000,USD,100000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+579,2022,SE,FT,Data Engineer,25000,USD,25000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+580,2022,SE,FT,Data Analyst,126500,USD,126500,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+581,2022,SE,FT,Data Analyst,106260,USD,106260,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+582,2022,SE,FT,Data Engineer,220110,USD,220110,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+583,2022,SE,FT,Data Engineer,160080,USD,160080,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+584,2022,SE,FT,Data Analyst,105000,USD,105000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+585,2022,SE,FT,Data Analyst,110925,USD,110925,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+586,2022,MI,FT,Data Analyst,35000,GBP,45807,GB,0,GB,M,Mid-level Intermediate ,Full-time ,United Kingdom,United Kingdom,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+587,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+588,2022,SE,FT,Data Analyst,99000,USD,99000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+589,2022,SE,FT,Data Analyst,60000,USD,60000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+590,2022,SE,FT,Data Architect,192564,USD,192564,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+591,2022,SE,FT,Data Architect,144854,USD,144854,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Other,80-100%,Not ML
+592,2022,SE,FT,Data Scientist,230000,USD,230000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+593,2022,SE,FT,Data Scientist,150000,USD,150000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+594,2022,SE,FT,Data Analytics Manager,150260,USD,150260,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+595,2022,SE,FT,Data Analytics Manager,109280,USD,109280,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+596,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+597,2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+598,2022,MI,FT,Data Scientist,160000,USD,160000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+599,2022,MI,FT,Data Scientist,130000,USD,130000,US,100,US,M,Mid-level Intermediate ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Scientist,80-100%,Not ML
+600,2022,EN,FT,Data Analyst,67000,USD,67000,CA,0,CA,M,Entry-level Junior ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+601,2022,EN,FT,Data Analyst,52000,USD,52000,CA,0,CA,M,Entry-level Junior ,Full-time ,Canada,Canada,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+602,2022,SE,FT,Data Engineer,154000,USD,154000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+603,2022,SE,FT,Data Engineer,126000,USD,126000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Engineer,80-100%,Not ML
+604,2022,SE,FT,Data Analyst,129000,USD,129000,US,0,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,0-20%,Not ML
+605,2022,SE,FT,Data Analyst,150000,USD,150000,US,100,US,M,Senior-level Expert ,Full-time ,United States of America,United States of America,Medium_Between_50_and_250_Emp,Analysis,80-100%,Not ML
+606,2022,MI,FT,AI Scientist,200000,USD,200000,IN,100,US,L,Mid-level Intermediate ,Full-time ,United States of America,India,Large_Greater_than_250_Emp,Scientist,80-100%,Not ML
