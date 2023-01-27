@@ -8,22 +8,22 @@
 //   processData(data);
 // });
 
-//geoJSON of country shape declared as variable within that file
+// geoJSON of country shape declared as variable within that file
 
 // Create a map object
 // Zoom to 1 for global map view
 
-const map = L.map("map", {
-    center: [37.09, -95.71],
-    zoom: 1
-  });
+const map = L.map('map', {
+  center: [40.5912574, -40.8506107],
+  zoom: 2.5,
+});
 
 // Add a tile layer.
 const tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 }).addTo(map);
 
 // Adding in shapes of the countries
-L.geoJson(World_Countries).addTo(map);
+// L.geoJson(World_Countries).addTo(map);
 
-  
+

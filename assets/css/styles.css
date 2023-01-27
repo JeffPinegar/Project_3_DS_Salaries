@@ -18,6 +18,7 @@ h1 {
   
   h3 {
     margin-top:20px;
+    color: rgb(83, 141, 126);
     /* background-color:rgb(194, 197, 194);
     color: orange;
     font-size: 30px;
@@ -117,4 +118,12 @@ h1 {
   
   tr:nth-child(even) {
     background-color: #dddddd;
+  }
+
+  #map {
+    position: relative;
+    border: 1px solid black;
+    border-radius: 8px;
+    height: 600px;  /* or as desired */
+    width: 100%;  /* This means "100% of the width of its container"*/
   }

@@ -30,7 +30,8 @@
     <!-- $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $   Your Javascript Here $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ -->
     <!-- <script src="./static/js/ML_Comp_Size.js" defer ></script> -->
     <!-- <script src="./static/js/ML_Visuals_Seperate_Select.js" defer ></script> -->
-    <script src="./static/js/ML_Visuals_Single_Select.js" defer ></script>
+    <script src="./static/js/ML_Visuals_Single_Select.js.js" defer ></script>
+    ML_Visuals_Single_Select.js
     <!-- <script src="./static/js/ML_Position_Avg_Salary_plot.js" defer ></script> -->
   </head>
 
@@ -97,7 +98,7 @@
       <div class="row">
         <div class="col-md-12">
           <!-- Page title -->
-          <h1>Employment in Machine Learning</h1>
+          <h1>Salaries for those work in Machine Learning</h1>
         </div>
       </div>
 
@@ -106,17 +107,10 @@
         <div class="col-md-12">
           <div class="col-md-11">
             <br><p id="Index-Pg-1"> Here we offer an overview of employment in data science within the subcategory 
-              of machine learning. We examine the average salary based on experience aggregated across all job titles 
+              of machine learning. We examine the average salary base on experience aggregated across all job titles 
               (Average Salary by Experience).  We look at the growth in the number of people working within the field 
               (Machine Learning Employment). Finally, we look at salaries by job titles (Average Salary By Job Title).</p>
-              
-              <p id="directions"> <strong>Please make your choice</strong></p>
-              <select id="selDataset">
-                <option value="allCountries">All Countries</option>
-                <option value="onlyUSA">Only USA</option>
-              </select>
-              
-            </div>
+          </div>
         </div>
       </div>
 
@@ -125,12 +119,17 @@
       <div class="row">
 
         <!-- Top left figure - Average Salary by Experience ------------------------------->
-        <div class="col-md-6">
+        <div class="col-md-5">
 
           <!-- Figure heading -->
-          <h3>Average Salary by Experience</h3>
+          <h4>Average Salary by Experience</h4>
 
           <!-- Figure  inserted by JavaScript -->
+          <select id="selDataset">
+            <option value="allCountries">All Countries</option>
+            <option value="onlyUSA">Only USA</option>
+          </select>
+          
           <div id="ML_Exp_Level" width = 100%></div>
 
 
@@ -145,11 +144,16 @@
         <div class="col-md-5">
 
           <!-- Figure Heading -->
-          <h3>Machine Learning Employment</h3>
+          <h4>Machine Learning Employment</h4>
 
           <!-- Figure inserted by JavaScript -->
-          <div id="ML_ID_Count" width = 100%></div>
 
+          <select id="selDatasetID">
+            <option value="allCountries">All Countries</option>
+            <option value="onlyUSA">Only USA</option>
+          </select>
+
+          <div id="ML_ID_Count" width = 100%></div>
           </a><br>
         </div>
       </div>
@@ -161,9 +165,13 @@
         <div class="col-md-12">
 
           <!-- Figure Title -->
-          <h3>Average Salary By Job Title</h3>
+          <h4>Average Salary By Job Title</h4>
           
           <!-- Figure inserted by Javascript -->
+          <select id="selDatasetPos">
+            <option value="allCountries">All Countries</option>
+            <option value="onlyUSA">Only USA</option>
+          </select>
           <div id="ML_Pos_Age_Sal" width = 100%></div>
           </a><br>
         </div>

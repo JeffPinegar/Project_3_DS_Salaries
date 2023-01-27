@@ -18,5 +18,5 @@ const layout = {
   title: title,
 };
 
-Plotly.newPlot('bar', data, layout);
+Plotly.newPlot('bar2', data, layout);
 // Plotly.newPlot("plot", [trace1], layout);
