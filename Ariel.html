@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Add a title here -->
-    <title>Arial</title>
+    <title>Salaries and Company Size</title>
 
 
     <!-- Boostrap Stylesheet --> 
@@ -25,10 +25,13 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous" defer></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" defer></script>
-    <!-- <script src="./static/js/navbar.js" defer ></script> -->
+    <script src="./static/js/navbar.js" defer ></script>
 
     <!-- $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $   Your Javascript Here $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ -->
-    <script src="./static/js/barChart.js" defer ></script>
+    <script src="./static/js/AJBarChart.js" defer></script>
+    <script src="./static/js/AJBarChart2.js" defer></script>
+    <script src="./static/js/AJBarChart3.js" defer></script>
+    <script src="./static/js/AJBarChart4.js" defer></script>
 
   </head>
 
@@ -57,31 +60,31 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <!-- ******************* Home ************************* Home **************************** Home ******************************** -->
-            <a class="nav-link" href="index.html">Overview</a>
+            <a class="nav-link" href="index.html">| Overview</a>
           </li>
           <li class="nav-item">
             <!-- *********************** Ariel ***************************** Ariel ************************* Ariel ************************* -->            
-            <a class="nav-link active" aria-current="page"  href="Ariel.html" style="color:rgb(255,0,0);"><strong>Ariel</strong></a>
+            <a class="nav-link active" aria-current="page"  href="Ariel.html" style="color:rgb(255,0,0);"><strong>| Salaries and Company Size</strong></a>
           </li>            
           <li class="nav-item">
             <!-- ********* Experience_Impact ******************** Experience_Impact ****************** Experience_Impact ******************* -->            
-            <a class="nav-link" href="Joe_Experience_Impact.html">Joe_Experience</a>
+            <a class="nav-link" href="Joe_Experience_Impact.html">| Joe_Experience</a>
           </li>              
           <li class="nav-item">
             <!-- ********* Position_Impact ************************* Position_Impact ******************* Position_Impact ******************* -->            
-            <a class="nav-link" href="Joe_Position_Impact.html">Joe_Position</a>
+            <a class="nav-link" href="Joe_Position_Impact.html">| Joe_Position</a>
           </li>              
           <li class="nav-item">
             <!-- *************** Location.html ************************* Location.html ******************* Location.html ******************* -->            
-            <a class="nav-link" href="Kristina_Location.html">Kristina_Locaction</a>
+            <a class="nav-link" href="Kristina_Location.html">| Average Salaries by Location</a>
           </li>
           <li class="nav-item">
             <!-- ********* Machine_Learning ********************** Machine_Learning ******************* Machine_Learning ******************* -->            
-            <a class="nav-link" href="Jeff_Machine_Learning.html">Jeff_ML</span></a>
+            <a class="nav-link" href="Jeff_Machine_Learning.html">| Machine Learning</span></a>
           </li>
           <li class="nav-item">
             <!-- ************************ Data ************************* Data *************************** Data ***************************** -->            
-            <a class="nav-link" href="data.html">Data</a>
+            <a class="nav-link" href="data.html">| Data</a>
           </li>
         </ul>
       </div>
@@ -96,7 +99,7 @@
       <div class="row">
         <div class="col-md-12">
           <!-- Page title -->
-          <h1>Arial's Page</h1>
+          <h1>Data Science Salaries and Company Size</h1>
         </div>
       </div>
 
@@ -104,9 +107,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="col-md-11">
-            <br><p id="Index-Pg-1"> This page overviews four weather attributes: Temperature, Humidity, Cloudiness, and Wind Speed.  
-              The weather conditions of each city are plotted according to its latitude. The weather conditions were all recorded on October 31, 2022 and the 
-              data is provided by www. OpenWeatherMap.org</p>
+            <br><p id="Index-Pg-1"> This page reviews salaries based upon the size of the company. There are three company sizes indicated: Large (250 employees or more), Medium (50-250 employees), and Small (less than 50 employees). Data is also seperated by the years in which the salary was reported. 
+              Overall, higher salaries are reported at larger companies, and average salaries for these employees has steadily grown from 2020-2022. Small companies have average salaries that remain relatively constant, albeit much lower than that of those at larger companies.
+            </p>
           </div>
         </div>
       </div>
@@ -115,10 +118,10 @@
       <!-- Row 4: first row of figures --------------------------------------------------->
       <div class="row">
         <!-- Top left figure -->
-        <div class="col-md-5">
+        <div class="col-md-8">
 
           <!-- Figure heading -->
-          <h4>Visualization 1</h4>
+          <h4>2020-2022 Avg. Salary by Company Size</h4>
 
           <!-- Figure  inserted by JavaScript -->
           <div id="bar" width = 100%></div>
@@ -128,26 +131,32 @@
         <!-- blank column for spacing -->
         <div class="col-md-1"></div>
 
-        <!-- Top right figure -->
-        <div class="col-md-5">
-
-          <!-- Figure Heading -->
-          <h4>Visualization 2</h4>
-
-          <!-- Figure inserted by JavaScript -->
-          <div id="bar2" width = 100%></div>
-          </a><br>
-        </div>
-      </div>
+        
 
  
       <!-- Row 5: Second row of figures --------------------------------------------------->
       <div class="row">
         <!-- Bottom left figure -->
-        <div class="col-md-5">
+        <div class="col-md-8">
 
           <!-- Figure Title -->
-          <h4>Visualization 3</h4>
+          <h4>Average Salaries for Large Companies (250+ Employees)</h4>
+          
+          <!-- Figure inserted by Javascript -->
+          <div id="bar2" width = 100%></div>
+          </a><br>
+        </div>
+
+        <!-- blank column for spacing -->
+        <div class="col-md-1"></div>
+
+      <!-- Row 5: Third row of figures --------------------------------------------------->
+      <div class="row">
+        <!-- Bottom left figure -->
+        <div class="col-md-8">
+
+          <!-- Figure Title -->
+          <h4>Average Salaries for Medium Companies (50-250 Employees)</h4>
           
           <!-- Figure inserted by Javascript -->
           <div id="bar3" width = 100%></div>
@@ -157,17 +166,23 @@
         <!-- blank column for spacing -->
         <div class="col-md-1"></div>
 
-        <div class="col-md-5">
-          <!-- Bottom right figure -->
+      <!-- Row 5: Fourth row of figures --------------------------------------------------->
+      <div class="row">
+        <!-- Bottom left figure -->
+        <div class="col-md-8">
+
+          <!-- Figure Title -->
+          <h4>Average Salaries for Small Companies (Less Than 50 Employees)</h4>
           
-          <!-- Figure title -->
-          <h4>Visualization 4</h4>
-          
-          <!-- Figure inserted by JavaScript -->
+          <!-- Figure inserted by Javascript -->
           <div id="bar4" width = 100%></div>
           </a><br>
         </div>
-      </div> 
+
+        <!-- blank column for spacing -->
+        <div class="col-md-1"></div>
+
+      
       
       <!-- Row 6: Footer --------------------------------------------------->
       <div class="row">
