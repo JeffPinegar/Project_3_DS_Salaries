@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 // adding path to geojson
 const source = './data/cc_Salary.geojson';
 
@@ -15,34 +16,33 @@ const tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', 
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 }).addTo(map);
 
-var geojson;
+let geojson;
 
 // Read in the CSV file
 d3.json(source).then(function(data) {
+  // processData(data);
+  console.log('data_here', data);
 
 
-	//processData(data);
-  console.log("data_here", data)
+  // Create a new choropleth layer.
+  geojson = L.choropleth(data, {
 
 
-	// Create a new choropleth layer.
-	geojson = L.choropleth(data, {
-  
-
-		// // Define which property in the features to use
-		valueProperty: "Avg Salary",
-		scale: ['#ffffb2', '#b10026'], // chroma.js scale 
-		steps: 4, // number of breaks or steps in range
-		mode: 'q', // q for quantile, e for equidistant, k for k-means
-		style: {
-		color: '#fff', // border color
-		weight: 2,
-		fillOpacity: 0.8
-	},
-	onEachFeature: function(feature, layer) {
-		layer.bindPopup(feature.properties.value)
-	}
-}).addTo(map);})
+    // // Define which property in the features to use
+    valueProperty: 'Avg Salary',
+    scale: ['#ffffb2', '#b10026'], // chroma.js scale
+    steps: 4, // number of breaks or steps in range
+    mode: 'q', // q for quantile, e for equidistant, k for k-means
+    style: {
+      color: '#fff', // border color
+      weight: 2,
+      fillOpacity: 0.8,
+    },
+    onEachFeature: function(feature, layer) {
+      layer.bindPopup(feature.properties.value);
+    },
+  }).addTo(map);
+});
 
 //   // Set up the legend, example from class 15.2.4
 //   var legend = L.control({ position: "bottomright" });
@@ -113,7 +113,6 @@ d3.json(source).then(function(data) {
 //     margin: 0 0 5px;
 //     color: #777;
 // }
-
 
 
 //   // Set up the legend, example from leaflet choropleth documentation

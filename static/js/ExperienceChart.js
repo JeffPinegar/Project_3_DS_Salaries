@@ -1,33 +1,11 @@
+/* eslint-disable max-len */
 /* eslint-disable require-jsdoc */
 /* eslint-disable camelcase */
 /* eslint-disable no-var */
-const name = 'Joe';
 
-const title = `Chart 1`;
-
-const books = ['The Visual Display of Quantitative Information', 'Automate the Boring Stuff', 'Data Science from Scratch'];
-
-const timesRead = [100, 50, 25];
-
-const trace1 = {
-  x: books,
-  y: timesRead,
-  type: 'bar',
-};
-
-const data = [trace1];
-
-const layout = {
-  title: title,
-};
-
-// Plotly.newPlot('bar2', data, layout);
-// Plotly.newPlot('bar3', data, layout);
-// Plotly.newPlot('bar4', data, layout);
-// Plotly.newPlot("plot", [trace1], layout);
 
 // Fetch file
-d3.csv('./DS_salary.csv').then((d)=>{
+d3.csv('./data/DS_Salary.csv').then((d)=>{
   console.log(d);
   createBarChart(d);
 });
@@ -63,7 +41,7 @@ function createBarChart(data) {
   const data2 = [trace2];
 
   const layout2 = {
-    title: title,
+    // title: title,
     height: 500,
     yaxis: {
       title: 'Average Salary [USD]',
@@ -74,6 +52,15 @@ function createBarChart(data) {
       title: {text: 'Experience', standoff: 10},
       titlefont: {size: 18},
       fontStyle: 'bold',
+
+      // #####################
+
+      categoryorder: 'array',
+      categoryarray: ['Entry-level Junior ', 'Mid-level Intermediate ', 'Senior-level Expert ', 'Executive-level Director'],
+
+      // ####################
+
+
     },
   };
 
