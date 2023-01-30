@@ -113,6 +113,10 @@ function updatePlotly() {
       automargin: true,
       title: {text: 'Level of Experience', standoff: 10},
       titlefont: {size: 18},
+
+      categoryorder: 'array',
+      categoryarray: ['Entry-level Junior ', 'Mid-level Intermediate ', 'Senior-level Expert ', 'Executive-level Director'],
+
     },
   };
   const traces1 = [{
@@ -225,6 +229,8 @@ function init2() {
         automargin: true,
         title: {text: 'Level of Experience', standoff: 10},
         titlefont: {size: 18},
+        categoryorder: 'array',
+        categoryarray: ['Entry-level Junior ', 'Mid-level Intermediate ', 'Senior-level Expert ', 'Executive-level Director'],
       },
     };
     const traces1 = [{
