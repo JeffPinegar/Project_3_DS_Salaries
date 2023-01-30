@@ -16,10 +16,11 @@ const data2 = [trace2];
 
 const layout2 = {
   xaxis: {
-    type: 'category'
+    type: 'category',
   },
-  title: title2,
-};
 
+  title: title2,
+
+};
 Plotly.newPlot('bar2', data2, layout2);
 // Plotly.newPlot("plot", [trace1], layout);

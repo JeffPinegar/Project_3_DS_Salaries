@@ -25,16 +25,18 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous" defer></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" defer></script>
-    <!-- <script src="./static/js/navbar.js" defer ></script> -->
+    <script src="./static/js/navbar.js" defer ></script>
 
     <!-- $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $   Your Javascript Here $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ -->
-    <script src="./static/js/barChart.js" defer ></script>
+    <script src="./static/js/ExperienceChart.js" defer ></script>
   
   </head>
 
   <body>
     
 <!-- ##########################################  Start of Bootstrap Container ############################################## -->
+
+
 <div class="container">
 
   <!-- Row 1 --------------------------------------------------->
@@ -65,11 +67,11 @@
           </li>            
           <li class="nav-item">
             <!-- ********* Experience_Impact ******************** Experience_Impact ****************** Experience_Impact ******************* -->            
-            <a class="nav-link active" aria-current="page"  href="Joe_Experience_Impact.html"style="color:rgb(255,0,0);"><strong>| Joe_Experience</strong></a>
+            <a class="nav-link active" aria-current="page"  href="Joe_Experience_Impact.html"style="color:rgb(255,0,0);"><strong>| Salaries and Experience</strong></a>
           </li>              
           <li class="nav-item">
             <!-- ********* Position_Impact ************************* Position_Impact ******************* Position_Impact ******************* -->            
-            <a class="nav-link" href="Joe_Position_Impact.html">| Joe_Position</a>
+            <a class="nav-link" href="Joe_Position_Impact.html">| Salaries and Job Titles</a>
           </li>              
           <li class="nav-item">
             <!-- *************** Location.html ************************* Location.html ******************* Location.html ******************* -->            
@@ -81,7 +83,7 @@
           </li>
           <li class="nav-item">
             <!-- ************************ Data ************************* Data *************************** Data ***************************** -->            
-            <a class="nav-link" href="data.html">| Data</a>
+            <a class="nav-link" href="data.html">Data</a>
           </li>
         </ul>
       </div>
@@ -96,7 +98,7 @@
       <div class="row">
         <div class="col-md-12">
           <!-- Page title -->
-          <h1>Joe - The Impact of Experience on Salary</h1>
+          <h1>The Impact of Experience on Salary</h1>
         </div>
       </div>
 
@@ -104,9 +106,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="col-md-11">
-            <br><p id="Index-Pg-1"> This page overviews four weather attributes: Temperature, Humidity, Cloudiness, and Wind Speed.  
-              The weather conditions of each city are plotted according to its latitude. The weather conditions were all recorded on October 31, 2022 and the 
-              data is provided by www. OpenWeatherMap.org</p>
+            <br><p id="Index-Pg-1"> This page overviews the impact experience has on salary in the Data Science field</p>
           </div>
         </div>
       </div>
@@ -115,60 +115,17 @@
       <!-- Row 4: first row of figures --------------------------------------------------->
       <div class="row">
         <!-- Top left figure -->
-        <div class="col-md-5">
+        <div class="col-md-9">
 
           <!-- Figure heading -->
-          <h4>Visualization 1</h4>
+          <h4>Impact on Experience</h4>
 
           <!-- Figure  inserted by JavaScript -->
           <div id="bar" width = 100%></div>
           </a><br>
         </div>
 
-        <!-- blank column for spacing -->
-        <div class="col-md-1"></div>
-
-        <!-- Top right figure -->
-        <div class="col-md-5">
-
-          <!-- Figure Heading -->
-          <h4>Visualization 2</h4>
-
-          <!-- Figure inserted by JavaScript -->
-          <div id="bar2" width = 100%></div>
-          </a><br>
-        </div>
-      </div>
-
- 
-      <!-- Row 5: Second row of figures --------------------------------------------------->
-      <div class="row">
-        <!-- Bottom left figure -->
-        <div class="col-md-5">
-
-          <!-- Figure Title -->
-          <h4>Visualization 3</h4>
-          
-          <!-- Figure inserted by Javascript -->
-          <div id="bar3" width = 100%></div>
-          </a><br>
-        </div>
-
-        <!-- blank column for spacing -->
-        <div class="col-md-1"></div>
-
-        <div class="col-md-5">
-          <!-- Bottom right figure -->
-          
-          <!-- Figure title -->
-          <h4>Visualization 4</h4>
-          
-          <!-- Figure inserted by JavaScript -->
-          <div id="bar4" width = 100%></div>
-          </a><br>
-        </div>
-      </div> 
-      
+              
       <!-- Row 6: Footer --------------------------------------------------->
       <div class="row">
         <div class="col-md-12">
