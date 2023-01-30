@@ -20,6 +20,49 @@
 		}
     </style> -->
 
+    <style>
+      .leaflet-tile{
+    margin-top:auto;
+    
+  }
+  
+  .my-legend .legend-title {
+    text-align: left;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 90%;
+    }
+  .my-legend .legend-scale ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+    }
+  .my-legend .legend-scale ul li {
+    display: block;
+    float: left;
+    width: 50px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-size: 80%;
+    list-style: none;
+    }
+  .my-legend ul.legend-labels li span {
+    display: block;
+    float: left;
+    height: 15px;
+    width: 50px;
+    }
+  .my-legend .legend-source {
+    font-size: 70%;
+    color: #999;
+    clear: both;
+    }
+  .my-legend a {
+    color: #777;
+    }
+      </style>
+
   <!-- Leaflet JavaScript code (use this version for functionality)-->
   <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
   integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
@@ -67,16 +110,6 @@
   <!-- $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $   Your Javascript Here $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ -->
   <script src="./static/js/kmChoroplethLocation.js" defer></script>
 
-  <!---- Start Dark mode pluggin ----------------------------------------------------------------------------------->
-   <!-- https://darkmodejs.learn.uno/ -->
-   <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
-  <script>
-    function addDarkmodeWidget() {
-      new Darkmode().showWidget();
-    }
-    window.addEventListener('load', addDarkmodeWidget);
-  </script>
-  <!---- End Dark mode pluggin ------------------------------------------------------------------------------------->
 
 
 </head>
@@ -156,16 +189,16 @@
         <div class="col-lg-11">
           <br>
           <p id="Index-Pg-1"> 
-            This page reviews average salaries by country.  
+            This page reviews average salaries by country.  <br />
 
-            607 reported salaries from 50 different countries are included in the data. The salary average for each country includes information from years 2020 through 2022 and has been converted to USD currency for the sake of global comparison. 
-            
-            The highest number of reported salaries by country was the United States (355).  
-            The highest number of reported salaries by year was 2022 (318).
-
-            The top 5 countries with the highest average reported salaries were Russia ($157,500), United States ($144,055), New Zealand ($125,00), Israel ($199,059), and Japan ($114,127).
-
-            The bottom 5 countries with the lowest average reported salaries were Ukraine ($13,400), Pakistan ($13,333), Kenya ($9,272), Vietnam ($4000), and Iran ($4000). 
+            607 reported salaries from 50 different countries are included in the data. The salary average for each country includes information from years 2020 through 2022 and has been converted to USD currency for the sake of global comparison. <br />
+            <br />
+            The highest number of reported salaries by country was the United States (355).  <br />
+            The highest number of reported salaries by year was 2022 (318).  <br />
+            <br />
+            The top 5 countries with the highest average reported salaries were Russia ($157,500), United States ($144,055), New Zealand ($125,00), Israel ($199,059), and Japan ($114,127).<br />
+            <br />
+            The bottom 5 countries with the lowest average reported salaries were Ukraine ($13,400), Pakistan ($13,333), Kenya ($9,272), Vietnam ($4000), and Iran ($4000). <br />
             </p>
         </div>
       </div>
@@ -178,13 +211,26 @@
       <div class="col-lg-12">
 
         <!-- Figure heading -->
-        <h4>Average Data Science Salaries Choropleth Map</h4>
-
+        <h4 style="text-align:center">Global Data Science Salary Averages in USD</h4>
+        <h4 style="text-align:center">Years 2020-2022</h4>
         <!-- Figure  inserted by JavaScript -->
         <div id="map" class="leaflet-container"></div>
       </div>
     </div>
 
+    <!--Insert Map Legend-->
+    <div class='my-legend'>
+      <div class='legend-title'>Legend</div>
+      <div class='legend-scale'>
+        <ul class='legend-labels'>
+          <li><span style='background:#ffffb2;'></span>lowest</li>
+          <li><span style='background:#ebbf8f;'></span></li>
+          <li><span style='background:#d87f6c;'></span></li>
+          <li><span style='background:#b10026;'></span>highest</li>
+        </ul>
+      </div>
+      <div class='legend-source'>Source: <a href="#link to source">Name of source</a></div>
+      </div>
 
     <!-- Row 6: Footer --------------------------------------------------->
     <div class="row">
