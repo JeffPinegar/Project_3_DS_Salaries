@@ -1,4 +1,3 @@
-/* eslint-disable max-len */
 // adding path to geojson
 const source = './data/cc_Salary.geojson';
 
@@ -13,49 +12,41 @@ const map = L.map('map', {
 
 // Add a tile layer.
 
-//misaligned version
-// const tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-//   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-// }).addTo(map);
+const tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+}).addTo(map);
 
-//code for alignment
-function initialize() {
-	map = L.map('map');
-	L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
-		maxZoom: 2.5,
-		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery Â© <a href="http://cloudmade.com">CloudMade</a>'
-	}).addTo(map);
-	
-	map.locate({setView: true, maxZoom: 2.5});    
-	} 
 
-let geojson;
+var geojson;
 
 // Read in the CSV file
 d3.json(source).then(function(data) {
-  // processData(data);
-  console.log('data_here', data);
 
 
-  // Create a new choropleth layer.
-  geojson = L.choropleth(data, {
+	//processData(data);
+  console.log("data_here", data)
 
 
-    // // Define which property in the features to use
-    valueProperty: 'Avg Salary',
-    scale: ['#ffffb2', '#b10026'], // chroma.js scale
-    steps: 4, // number of breaks or steps in range
-    mode: 'q', // q for quantile, e for equidistant, k for k-means
-    style: {
-      color: '#fff', // border color
-      weight: 2,
-      fillOpacity: 0.8,
-    },
-    onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.value);
-    },
-  }).addTo(map);
-});
+	// Create a new choropleth layer.
+	geojson = L.choropleth(data, {
+
+		
+  
+
+		// // Define which property in the features to use
+		valueProperty: "Avg Salary",
+		scale: ['#ffffb2', '#b10026'], // chroma.js scale 
+		steps: 4, // number of breaks or steps in range
+		mode: 'q', // q for quantile, e for equidistant, k for k-means
+		style: {
+		color: '#fff', // border color
+		weight: 2,
+		fillOpacity: 0.8
+	},
+	onEachFeature: function(feature, layer) {
+		layer.bindPopup(feature.properties.value)
+	}
+}).addTo(map);})
 
 //-----------------------------------------------------------------------------------------------------------
 // interactivity/legend from leaflet documentation with stackoverflow troubleshooting
@@ -255,6 +246,7 @@ legend.addTo(map);
 //     margin: 0 0 5px;
 //     color: #777;
 // }
+
 
 
 //   // Set up the legend, example from leaflet choropleth documentation

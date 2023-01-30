@@ -127,3 +127,7 @@ h1 {
     height: 600px;  /* 600 or as desired */
     width: 100%;  /* This means "100% of the width of its container"*/
   }
+
+  .leaflet-tile{
+    margin-top: auto;
+  }
